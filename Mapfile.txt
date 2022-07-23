@@ -1,0 +1,1 @@
+This content is passed by the variable for Map
